@@ -14,7 +14,7 @@
     "ee-first": "^1.1.1",
     "escape-html": "^1.0.3",
     "etag": "^1.8.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "express-handlebars": "^3.0.0",
     "fresh": "^0.5.2",
     "inherits": "^2.0.3",
